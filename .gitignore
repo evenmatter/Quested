@@ -1,0 +1,8 @@
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Original screenshot sources; optimized website copies are in docs/assets/images/.
+/IMG_0207 2.PNG
+/IMG_0208 2.PNG
